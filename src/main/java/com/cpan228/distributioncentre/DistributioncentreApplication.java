@@ -5,10 +5,8 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
 
-import com.cpan228.distributioncentre.model.DistributionCentre;
 import com.cpan228.distributioncentre.model.Item;
 import com.cpan228.distributioncentre.model.Item.Brand;
-import com.cpan228.distributioncentre.repository.DistributionCentreRepository;
 import com.cpan228.distributioncentre.repository.ItemRepository;
 
 @SpringBootApplication
